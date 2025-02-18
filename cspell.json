@@ -1,0 +1,32 @@
+{
+	"dictionaries": ["npm", "node", "typescript"],
+	"ignorePaths": [
+		".all-contributorsrc",
+		".github",
+		"CHANGELOG.md",
+		"coverage",
+		"lib",
+		"node_modules",
+		"pnpm-lock.yaml"
+	],
+	"words": [
+		"access",
+		"apexskier",
+		"automerge",
+		"Cta",
+		"cta-bingo-test-1",
+		"description",
+		"directory",
+		"everything",
+		"from",
+		"joshuakgoldberg",
+		"markdownlintignore",
+		"preset",
+		"public",
+		"repository",
+		"Testing",
+		"title",
+		"tseslint",
+		"usage"
+	]
+}
